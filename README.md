@@ -1,3 +1,3 @@
 ## Bcrypt Generator
 
-![Alt text](/ao_bcrypt_generator/img/page.png?raw=true "Bcrypt Generator")
+![Alt text](/img/page.png?raw=true "Bcrypt Generator")
